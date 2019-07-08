@@ -1,0 +1,14 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "description": "Gulp build",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp-clean-css": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
